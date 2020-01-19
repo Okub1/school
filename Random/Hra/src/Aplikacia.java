@@ -6,4 +6,3 @@ public class Aplikacia {
         hra.zacniHru();
     }
 }
-s
