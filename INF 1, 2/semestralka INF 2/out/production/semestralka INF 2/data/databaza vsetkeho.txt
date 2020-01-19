@@ -1,0 +1,64 @@
+Zaciatok suboru
+Hasickska zbrojnica
+	Vyska: 			150.0
+	Sirka: 			10.0
+	Dlzka: 			35.0
+	Stav: 			nehori
+	Kapacita: 		50
+	Velkost garaze: 5
+
+Garaz
+	Vyska: 			150.0
+	Sirka: 			300.0
+	Dlzka: 			20.0
+	Stav: 			nehori
+
+Miesta v garazi: 
+Miesto 1:
+-------------------------------	
+	Volne? : nie
+Vozidlo
+	SPZ: a6s54d
+	Hmotnost: 350.5
+	Typ vozidla: hasicske auto
+V hasicskom aute sa nachadza: 
+Hasic
+	Meno: 			Janko Hrasko
+	Vek: 			18
+	Pohlavie: 		muz
+	Hmotnost: 		80.5
+	Mzda: 			450
+-------------------------------
+Miesto 2:
+-------------------------------	
+	Volne? : nie
+Vozidlo
+	SPZ: a6s54d
+	Hmotnost: 350.5
+	Typ vozidla: hasicske auto
+V hasicskom aute sa nachadza: 
+-------------------------------
+Miesto 3:
+-------------------------------
+	   Miesto je prazdne
+-------------------------------
+-------------------------------
+Miesto 4:
+-------------------------------
+	   Miesto je prazdne
+-------------------------------
+-------------------------------
+Miesto 5:
+-------------------------------
+	   Miesto je prazdne
+-------------------------------
+-------------------------------
+
+Hasici v hasicskej zbrojnici: 
+Hasic
+	Meno: 			Janko Hrasko
+	Vek: 			18
+	Pohlavie: 		muz
+	Hmotnost: 		80.5
+	Mzda: 			450
+Koniec suboru.

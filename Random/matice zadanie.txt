@@ -1,0 +1,16 @@
+konkretne ukony s maticami ktore chcem aby si naprogramovala:
+
+scitavanie, odcitavanie, nasobenie, vypocet determinantu (ale iba ak si trufas)
+
+veci ktore chcem aby trieda Matica zvladala:
+
+zadat maticu (lubovolnej velkosti)
+vypisat ci je stvorcova
+vypisat rozmery matice
+vypisat obsah matice
+vracat maticu ako dvojrozmerne pole
+
+ohladom kontajnerov, chcem ich len vramci main-u
+napriklad ArrayList<Matica>,
+a chcem aby si spravila foreach na tento kontajner 
+an vypis vsetkych matic v kontajneri

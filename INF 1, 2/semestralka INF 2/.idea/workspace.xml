@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="semestralka INF 2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09f57fba-7008-4a7a-9e27-caaf1c551ff0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.6" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StavBudovy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/budovy/StavBudovy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aplikacia.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aplikacia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hasic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/osoby/Hasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Osoba.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/osoby/Osoba.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Garaz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/budovy/Garaz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4573">
+              <caret line="286" column="4" selection-start-line="286" selection-start-column="4" selection-end-line="290" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pohlavie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/osoby/Pohlavie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasicskeAuto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vozidla/HasicskeAuto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2023">
+              <caret line="128" column="51" selection-start-line="128" selection-start-column="51" selection-end-line="128" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypVozidla.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vozidla/TypVozidla.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vozidlo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vozidla/Vozidlo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="112" column="51" selection-start-line="112" selection-start-column="51" selection-end-line="112" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zaparkovatelny.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vozidla/Zaparkovatelny.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Salt Wireframe" />
+        <option value="UML Activity" />
+        <option value="UML Component" />
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Jlabel</find>
+      <find>contentPane</find>
+      <find>content</find>
+      <find>Novy</find>
+      <find>pridaj</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GUI/AplikaciaGUI2.form" />
+        <option value="$PROJECT_DIR$/src/GUI/AplikaciaGUI2.java" />
+        <option value="$PROJECT_DIR$/src/GUI/AplikaciaGUI.form" />
+        <option value="$PROJECT_DIR$/src/GUI/HasicskaZbrojnicaMenu2.form" />
+        <option value="$PROJECT_DIR$/src/GUI/HasicskaZbrojnicaMenu.form" />
+        <option value="$PROJECT_DIR$/src/GUI/Hasic_Okno.form" />
+        <option value="$PROJECT_DIR$/src/GUI/HasicskaZbrojnica_Okno.form" />
+        <option value="$PROJECT_DIR$/src/GUI/Hasic_Okno.java" />
+        <option value="$PROJECT_DIR$/src/GUI/HasicskaZbrojnica_Okno.java" />
+        <option value="$PROJECT_DIR$/src/GUI/AplikaciaGUI.java" />
+        <option value="$PROJECT_DIR$/src/GUI/NovaHasicskaZbrojnica.java" />
+        <option value="$PROJECT_DIR$/src/GUI/HasicskaZbrojnicaMenu.java" />
+        <option value="$PROJECT_DIR$/src/GUI/dialogy/PridajHasicskuZbrojnicu.form" />
+        <option value="$PROJECT_DIR$/src/Budovy/Garaz.java" />
+        <option value="$PROJECT_DIR$/src/Exceptions/MiestoJeObsadeneException.java" />
+        <option value="$PROJECT_DIR$/src/Exceptions/ZlyParameterException.java" />
+        <option value="$PROJECT_DIR$/src/GUI/dialogy/PridajHasicskuZbrojnicu.java" />
+        <option value="$PROJECT_DIR$/src/Osoby/Hasic.java" />
+        <option value="$PROJECT_DIR$/src/Osoby/Osoba.java" />
+        <option value="$PROJECT_DIR$/src/Vozidla/Vozidlo.java" />
+        <option value="$PROJECT_DIR$/src/budovy/horlavy.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Aplikacia.java" />
+        <option value="$PROJECT_DIR$/src/gui/dialogy/PridajHasicskuZbrojnicu.java" />
+        <option value="$PROJECT_DIR$/src/gui/Hasic_Okno.java" />
+        <option value="$PROJECT_DIR$/src/gui/hasicOkno.java" />
+        <option value="$PROJECT_DIR$/src/gui/hasic.java" />
+        <option value="$PROJECT_DIR$/src/gui/Hasic.java" />
+        <option value="$PROJECT_DIR$/src/gui/NovaHasicskaZbrojnica.java" />
+        <option value="$PROJECT_DIR$/src/gui/Aplikacia.java" />
+        <option value="$PROJECT_DIR$/src/gui/Aplikacia2.form" />
+        <option value="$PROJECT_DIR$/src/Vozidla/HasicskeAuto.java" />
+        <option value="$PROJECT_DIR$/src/gui/Aplikacia2.java" />
+        <option value="$PROJECT_DIR$/src/vozidla/zaparkovatelny.java" />
+        <option value="$PROJECT_DIR$/src/Vozidla/Zaparkovatelny.java" />
+        <option value="$PROJECT_DIR$/src/budovy/HORLAVY.java" />
+        <option value="$PROJECT_DIR$/src/budovy/Budova.java" />
+        <option value="$PROJECT_DIR$/src/budovy/Garaz.java" />
+        <option value="$PROJECT_DIR$/src/budovy/HasicskaZbrojnica.java" />
+        <option value="$PROJECT_DIR$/src/budovy/Horlavy.java" />
+        <option value="$PROJECT_DIR$/src/budovy/StavBudovy.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/MiestoJeObsadeneException.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/ZlyParameterException.java" />
+        <option value="$PROJECT_DIR$/src/osoby/Nalozitelny.java" />
+        <option value="$PROJECT_DIR$/src/osoby/Osoba.java" />
+        <option value="$PROJECT_DIR$/src/osoby/Pohlavie.java" />
+        <option value="$PROJECT_DIR$/src/osoby/Hasic.java" />
+        <option value="$PROJECT_DIR$/src/vozidla/HasicskeAuto.java" />
+        <option value="$PROJECT_DIR$/src/vozidla/TypVozidla.java" />
+        <option value="$PROJECT_DIR$/src/vozidla/Vozidlo.java" />
+        <option value="$PROJECT_DIR$/src/vozidla/Zaparkovatelny.java" />
+        <option value="$PROJECT_DIR$/src/Aplikacia.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="196" />
+    <option name="width" value="1740" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="budovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="budovy" type="462c0819:PsiDirectoryNode" />
+              <item name="Garaz.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="osoby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="semestralka INF 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semestralka INF 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vozidla" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="324" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="PUML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UML" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0ku8\IdeaProjects\semestralka INF 2\src\Vozidla" />
+      <recent name="C:\Users\0ku8\IdeaProjects\semestralka INF 2\UML" />
+      <recent name="C:\Users\0ku8\IdeaProjects\semestralka INF 2\src\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Aplikacia2">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Aplikacia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Aplikacia" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Aplikacia2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Aplikacia2" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AplikaciaGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.AplikaciaGUI" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AplikaciaGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.AplikaciaGUI" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NovaHasicskaZbrojnica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dialogy.NovaHasicskaZbrojnica" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dialogy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PridajHasicskuZbrojnicu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.dialogy.PridajHasicskuZbrojnicu" />
+      <module name="semestralka INF 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.dialogy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Aplikacia" />
+      <item itemvalue="Application.AplikaciaGUI" />
+      <item itemvalue="Application.NovaHasicskaZbrojnica" />
+      <item itemvalue="Application.PridajHasicskuZbrojnicu" />
+      <item itemvalue="Application.Aplikacia2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplikacia2" />
+        <item itemvalue="Application.Aplikacia" />
+        <item itemvalue="Application.PridajHasicskuZbrojnicu" />
+        <item itemvalue="Application.NovaHasicskaZbrojnica" />
+        <item itemvalue="Application.AplikaciaGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09f57fba-7008-4a7a-9e27-caaf1c551ff0" name="Default" comment="" />
+      <created>1525192497961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525192497961</updated>
+      <workItem from="1526136643761" duration="7322000" />
+      <workItem from="1526198283380" duration="4515000" />
+      <workItem from="1526391719798" duration="20877000" />
+      <workItem from="1526449870607" duration="15840000" />
+      <workItem from="1526466585633" duration="2048000" />
+      <workItem from="1526663083169" duration="119000" />
+      <workItem from="1526680971042" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50749000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37960044" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13645834" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="9" weight="0.32948583" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.33123028" />
+      <window_info anchor="right" x="808" y="53" width="930" height="953" id="simpleUML" order="9" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="PlantUML" order="8" weight="0.3296875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32492113" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32597265" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/asd.form" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar!/java/awt/event/MouseListener.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/asd.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="963" column="26" selection-start-line="963" selection-start-column="26" selection-end-line="963" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Okno1.form" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/AplikaciaDialog.form" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="1150" column="12" selection-start-line="1150" selection-start-column="12" selection-end-line="1150" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/AplikaciaDialog.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/Okno1.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnicaMenu.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/AplikaciaGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/AplikaciaGUI.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnicaMenu.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/AplikaciaGUI.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Hasic.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnicaMenu.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnica_Okno.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Aplikacia.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/NovaHasicskaZbrojnica.form" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="204" column="11" selection-start-line="204" selection-start-column="11" selection-end-line="204" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/databaza vsetkeho.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AplikaciaGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnica_Okno.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/HasicskaZbrojnicaMenu.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/NovaHasicskaZbrojnica.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Aplikacia.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/dialogy/PridajHasicskuZbrojnicu.form" />
+    <entry file="file://$PROJECT_DIR$/src/gui/dialogy/PridajHasicskuZbrojnicu.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Hasic.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/Icon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="854" column="10" selection-start-line="854" selection-start-column="10" selection-end-line="854" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Aplikacia2.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/budovy/HasicskaZbrojnica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="254" column="64" lean-forward="true" selection-start-line="254" selection-start-column="64" selection-end-line="254" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3529#3530#0" expanded="true" />
+            <element signature="e#3574#3575#0" expanded="true" />
+            <element signature="e#4542#4543#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
+            <element signature="e#4731#4732#0" expanded="true" />
+            <element signature="e#4759#4760#0" expanded="true" />
+            <element signature="e#4982#4983#0" expanded="true" />
+            <element signature="e#5021#5022#0" expanded="true" />
+            <element signature="e#5488#5489#0" expanded="true" />
+            <element signature="e#5527#5528#0" expanded="true" />
+            <element signature="e#5996#5997#0" expanded="true" />
+            <element signature="e#6035#6036#0" expanded="true" />
+            <element signature="e#6499#6500#0" expanded="true" />
+            <element signature="e#6537#6538#0" expanded="true" />
+            <element signature="e#5820#5821#0" expanded="true" />
+            <element signature="e#5858#5859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/budovy/Horlavy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/MiestoJeObsadeneException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/ZlyParameterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Aplikacia2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/osoby/Nalozitelny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/budovy/Budova.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/osoby/Osoba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/budovy/StavBudovy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/osoby/Pohlavie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/osoby/Hasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/budovy/Garaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4573">
+          <caret line="286" column="4" selection-start-line="286" selection-start-column="4" selection-end-line="290" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vozidla/HasicskeAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="128" column="51" selection-start-line="128" selection-start-column="51" selection-end-line="128" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vozidla/TypVozidla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vozidla/Vozidlo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="112" column="51" selection-start-line="112" selection-start-column="51" selection-end-line="112" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vozidla/Zaparkovatelny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="3790.0" y="4465.5">java</node>
+            <node x="2151.0" y="4465.5">org.xml</node>
+            <node x="3985.5" y="4465.5">javafx</node>
+            <node x="2348.0" y="4465.5">org.omg</node>
+            <node x="1742.5" y="1117.5">budovy.Garaz</node>
+            <node x="4182.0" y="4465.5">groovy</node>
+            <node x="4391.0" y="4465.5">sun</node>
+            <node x="2552.5" y="4465.5">org.jcp</node>
+            <node x="975.5" y="570.5">vozidla.Zaparkovatelny</node>
+            <node x="-7.5" y="4745.5">jdk</node>
+            <node x="475.5" y="-30.5">vozidla.TypVozidla</node>
+            <node x="1415.0" y="4465.5">org.codehaus</node>
+            <node x="187.5" y="4745.5">javax</node>
+            <node x="684.0" y="1294.5">exceptions.ZlyParameterException</node>
+            <node x="2744.5" y="4465.5">com.oracle</node>
+            <node x="1473.5" y="1918.5">budovy.StavBudovy</node>
+            <node x="1167.5" y="1606.5">budovy.Horlavy</node>
+            <node x="2951.0" y="4465.5">com.sun</node>
+            <node x="-10.5" y="4465.5">groovyjarjarasm.asm</node>
+            <node x="3152.0" y="4465.5">org.ietf</node>
+            <node x="3384.0" y="4465.5">oracle.jrockit</node>
+            <node x="1660.0" y="4465.5">META-INF.services</node>
+            <node x="3590.0" y="4465.5">org.w3c</node>
+            <node x="1900.0" y="4465.5">META-INF.licenses</node>
+            <node x="2586.0" y="3392.5">osoby.Nalozitelny</node>
+            <node x="740.0" y="4465.5">netscape.security</node>
+            <node x="3837.0" y="-14.5">groovyjarjarantlr</node>
+            <node x="395.5" y="3294.5">Aplikacia</node>
+            <node x="157.0" y="183.5">vozidla.HasicskeAuto</node>
+            <node x="887.5" y="1606.5">budovy.Budova</node>
+            <node x="682.5" y="794.5">vozidla.Vozidlo</node>
+            <node x="2882.0" y="3249.5">osoby.Pohlavie</node>
+            <node x="1358.0" y="828.0">budovy.Miesto</node>
+            <node x="-17.0" y="3968.5">osoby.Hasic</node>
+            <node x="336.0" y="4465.5">groovyjarjarcommonscli</node>
+            <node x="1055.5" y="4465.5">netscape.javascript</node>
+            <node x="2190.5" y="2280.5">budovy.HasicskaZbrojnica</node>
+            <node x="2509.5" y="1294.5">exceptions.MiestoJeObsadeneException</node>
+            <node x="2575.5" y="3566.0">osoby.Osoba</node>
+            <node x="3241.5" y="2673.5">gui.Aplikacia2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="netscape.javascript" target="netscape.javascript">
+              <point x="40.0" y="14.5" />
+              <point x="1160.0" y="4560.0" />
+              <point x="1240.0" y="4560.0" />
+              <point x="1240.0" y="4488.0" />
+              <point x="64.5" y="8.0" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="exceptions.MiestoJeObsadeneException">
+              <point x="-40.0" y="-246.5" />
+              <point x="3360.0" y="1320.0" />
+              <point x="130.5" y="-0.0" />
+            </edge>
+            <edge source="netscape.security" target="netscape.security">
+              <point x="0.0" y="14.5" />
+              <point x="800.0" y="4600.0" />
+              <point x="960.0" y="4600.0" />
+              <point x="960.0" y="4480.0" />
+              <point x="60.0" y="-0.0" />
+            </edge>
+            <edge source="Aplikacia" target="osoby.Pohlavie">
+              <point x="84.5" y="-0.0" />
+              <point x="-78.0" y="-0.0" />
+            </edge>
+            <edge source="budovy.Garaz" target="budovy.Budova">
+              <point x="-137.5" y="40.0" />
+              <point x="1000.0" y="1360.0" />
+              <point x="0.0" y="-113.5" />
+            </edge>
+            <edge source="vozidla.HasicskeAuto" target="vozidla.Zaparkovatelny">
+              <point x="123.0" y="80.0" />
+              <point x="1080.0" y="400.0" />
+              <point x="0.0" y="-69.5" />
+            </edge>
+            <edge source="vozidla.HasicskeAuto" target="exceptions.ZlyParameterException">
+              <point x="123.0" y="112.0" />
+              <point x="600.0" y="432.0" />
+              <point x="600.0" y="1310.0" />
+              <point x="-116.0" y="-10.0" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="vozidla.HasicskeAuto">
+              <point x="158.5" y="-0.0" />
+              <point x="3640.0" y="2920.0" />
+              <point x="3640.0" y="336.0" />
+              <point x="123.0" y="16.0" />
+            </edge>
+            <edge source="vozidla.HasicskeAuto" target="vozidla.Vozidlo">
+              <point x="123.0" y="72.0" />
+              <point x="1240.0" y="392.0" />
+              <point x="1240.0" y="880.0" />
+              <point x="117.5" y="-40.0" />
+            </edge>
+            <edge source="Aplikacia" target="exceptions.ZlyParameterException">
+              <point x="84.5" y="-20.0" />
+              <point x="760.0" y="3300.0" />
+              <point x="-40.0" y="25.5" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="budovy.HasicskaZbrojnica">
+              <point x="-120.0" y="-246.5" />
+              <point x="3280.0" y="2240.0" />
+              <point x="2440.0" y="2240.0" />
+              <point x="80.0" y="-279.5" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="budovy.StavBudovy">
+              <point x="-169.5" y="-80.0" />
+              <point x="1560.0" y="2480.0" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="budovy.Budova" target="budovy.StavBudovy">
+              <point x="40.0" y="113.5" />
+              <point x="1040.0" y="2000.0" />
+              <point x="-86.5" y="-0.0" />
+            </edge>
+            <edge source="vozidla.Vozidlo" target="osoby.Hasic">
+              <point x="-117.5" y="-0.0" />
+              <point x="120.0" y="920.0" />
+              <point x="0.0" y="-191.5" />
+            </edge>
+            <edge source="osoby.Hasic" target="osoby.Pohlavie">
+              <point x="137.0" y="-80.0" />
+              <point x="3080.0" y="4080.0" />
+              <point x="3080.0" y="3320.0" />
+              <point x="78.0" y="-0.0" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="osoby.Nalozitelny">
+              <point x="169.5" y="-0.0" />
+              <point x="2680.0" y="2560.0" />
+              <point x="0.0" y="-47.5" />
+            </edge>
+            <edge source="Aplikacia" target="exceptions.MiestoJeObsadeneException">
+              <point x="84.5" y="-5.0" />
+              <point x="2640.0" y="3315.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="budovy.Garaz" target="vozidla.HasicskeAuto">
+              <point x="0.0" y="-202.5" />
+              <point x="1880.0" y="368.0" />
+              <point x="123.0" y="48.0" />
+            </edge>
+            <edge source="Aplikacia" target="osoby.Hasic">
+              <point x="84.5" y="20.0" />
+              <point x="640.0" y="3340.0" />
+              <point x="640.0" y="4026.6666666666665" />
+              <point x="137.0" y="-133.33333333333331" />
+            </edge>
+            <edge source="vozidla.HasicskeAuto" target="osoby.Hasic">
+              <point x="123.0" y="-0.0" />
+              <point x="3720.0" y="320.0" />
+              <point x="3720.0" y="4160.0" />
+              <point x="137.0" y="-0.0" />
+            </edge>
+            <edge source="groovyjarjarasm.asm" target="groovyjarjarasm.asm">
+              <point x="40.0" y="14.5" />
+              <point x="80.0" y="4560.0" />
+              <point x="160.0" y="4560.0" />
+              <point x="160.0" y="4488.0" />
+              <point x="50.5" y="8.0" />
+            </edge>
+            <edge source="budovy.Horlavy" target="budovy.StavBudovy">
+              <point x="0.0" y="113.5" />
+              <point x="1280.0" y="1960.0" />
+              <point x="-86.5" y="-40.0" />
+            </edge>
+            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+              <point x="40.0" y="14.5" />
+              <point x="480.0" y="4560.0" />
+              <point x="600.0" y="4560.0" />
+              <point x="600.0" y="4488.0" />
+              <point x="104.0" y="8.0" />
+            </edge>
+            <edge source="budovy.Budova" target="budovy.Horlavy">
+              <point x="112.5" y="-0.0" />
+              <point x="-112.5" y="-0.0" />
+            </edge>
+            <edge source="budovy.Garaz" target="budovy.StavBudovy">
+              <point x="-40.0" y="202.5" />
+              <point x="1840.0" y="2000.0" />
+              <point x="86.5" y="-0.0" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="budovy.Garaz">
+              <point x="-169.5" y="-160.0" />
+              <point x="1880.0" y="2400.0" />
+              <point x="0.0" y="202.5" />
+            </edge>
+            <edge source="budovy.Garaz" target="exceptions.MiestoJeObsadeneException">
+              <point x="137.5" y="-0.0" />
+              <point x="-130.5" y="-0.0" />
+            </edge>
+            <edge source="vozidla.Vozidlo" target="vozidla.Zaparkovatelny">
+              <point x="0.0" y="-125.5" />
+              <point x="800.0" y="640.0" />
+              <point x="-104.5" y="-0.0" />
+            </edge>
+            <edge source="osoby.Hasic" target="exceptions.ZlyParameterException">
+              <point x="137.0" y="-160.0" />
+              <point x="320.0" y="4000.0" />
+              <point x="320.0" y="1320.0" />
+              <point x="-116.0" y="-0.0" />
+            </edge>
+            <edge source="budovy.Garaz" target="budovy.Miesto">
+              <point x="-137.5" y="-40.0" />
+              <point x="1480.0" y="1280.0" />
+              <point x="0.0" y="92.0" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="osoby.Hasic">
+              <point x="-158.5" y="120.0" />
+              <point x="3160.0" y="3040.0" />
+              <point x="3160.0" y="4106.666666666667" />
+              <point x="137.0" y="-53.33333333333334" />
+            </edge>
+            <edge source="budovy.Miesto" target="vozidla.HasicskeAuto">
+              <point x="-40.0" y="-92.0" />
+              <point x="1440.0" y="376.0" />
+              <point x="123.0" y="56.0" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="budovy.Budova">
+              <point x="-169.5" y="-40.0" />
+              <point x="1000.0" y="2520.0" />
+              <point x="0.0" y="113.5" />
+            </edge>
+            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+              <point x="40.0" y="14.5" />
+              <point x="3960.0" y="80.0" />
+              <point x="4080.0" y="80.0" />
+              <point x="4080.0" y="8.0" />
+              <point x="83.0" y="8.0" />
+            </edge>
+            <edge source="osoby.Osoba" target="osoby.Nalozitelny">
+              <point x="0.0" y="-114.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="budovy.Garaz" target="exceptions.ZlyParameterException">
+              <point x="-137.5" y="-0.0" />
+              <point x="116.0" y="-0.0" />
+            </edge>
+            <edge source="vozidla.HasicskeAuto" target="vozidla.TypVozidla">
+              <point x="123.0" y="-40.0" />
+              <point x="560.0" y="280.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="vozidla.Vozidlo" target="exceptions.ZlyParameterException">
+              <point x="0.0" y="125.5" />
+              <point x="0.0" y="-25.5" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="osoby.Pohlavie">
+              <point x="-158.5" y="40.0" />
+              <point x="2960.0" y="2960.0" />
+              <point x="0.0" y="-70.5" />
+            </edge>
+            <edge source="Aplikacia" target="vozidla.HasicskeAuto">
+              <point x="0.0" y="-25.5" />
+              <point x="480.0" y="440.0" />
+              <point x="123.0" y="120.0" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="vozidla.HasicskeAuto">
+              <point x="0.0" y="-279.5" />
+              <point x="2360.0" y="360.0" />
+              <point x="123.0" y="40.0" />
+            </edge>
+            <edge source="osoby.Osoba" target="osoby.Pohlavie">
+              <point x="104.5" y="-0.0" />
+              <point x="2920.0" y="3680.0" />
+              <point x="-40.0" y="70.5" />
+            </edge>
+            <edge source="gui.Aplikacia2" target="exceptions.ZlyParameterException">
+              <point x="-158.5" y="-0.0" />
+              <point x="800.0" y="2920.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="budovy.HasicskaZbrojnica" target="exceptions.ZlyParameterException">
+              <point x="-169.5" y="-0.0" />
+              <point x="840.0" y="2560.0" />
+              <point x="40.0" y="25.5" />
+            </edge>
+            <edge source="osoby.Hasic" target="osoby.Osoba">
+              <point x="137.0" y="-106.66666666666669" />
+              <point x="2680.0" y="4053.3333333333335" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="budovy.Miesto" target="vozidla.Vozidlo">
+              <point x="-122.0" y="-0.0" />
+              <point x="117.5" y="-0.0" />
+            </edge>
+            <edge source="Aplikacia" target="budovy.HasicskaZbrojnica">
+              <point x="84.5" y="-10.0" />
+              <point x="2600.0" y="3310.0" />
+              <point x="2600.0" y="2600.0" />
+              <point x="169.5" y="40.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="2072.0" y="3208.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aplikacia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>semestralka INF 2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>semestralka INF 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile1" value="file://$PROJECT_DIR$/../asd.suml" />
+      <option name="knownFile2" value="file://$PROJECT_DIR$/UML/1.suml" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../123.suml" />
+      <option name="knownFile5" value="file://$PROJECT_DIR$/src/uml/UML diagram.suml" />
+      <option name="knownFile3" value="file://$PROJECT_DIR$/UML/123.suml" />
+      <option name="knownFile4" value="file://$PROJECT_DIR$/UML/125555641.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
