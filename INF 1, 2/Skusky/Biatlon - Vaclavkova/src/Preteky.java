@@ -57,10 +57,10 @@ public class Preteky {
      * @return
      */
     public String toString() {
-        String pretakariString = "";
+        StringBuilder pretakariString = new StringBuilder();
 
         for (Pretekar pretekar : this.pretekari) {
-            pretakariString += pretekar.toString() + "\n";
+            pretakariString.append(pretekar.toString()).append("\n");
         }
 
         return "Pretekaju: \n" + pretakariString;

@@ -1,17 +1,17 @@
+import java.util.Arrays;
+
 public class Strelba {
     private int pocetVsetkychTercov;
     private int pocetZasahov;
     private char[] terce;
-    private char ZASAH = 'X';
-    private char VEDLA = '-';
+    private final char ZASAH = 'X';
+    private final char VEDLA = '-';
 
     public Strelba(int paPocetVsetkychTercov) {
         this.pocetVsetkychTercov = paPocetVsetkychTercov;
         this.terce = new char[paPocetVsetkychTercov];
 
-        for (int i = 0; i < this.terce.length; i++) {
-            this.terce[i] = this.VEDLA;
-        }
+        Arrays.fill(this.terce, this.VEDLA);
     }
 
     public int dajPocetTercov() {

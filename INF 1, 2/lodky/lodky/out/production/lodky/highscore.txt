@@ -1,0 +1,12 @@
+Cas: Mon Dec 03 11:37:45 CET 2012
+Pocet pokusov: 1
+Uspesnost (%): 100.0
+* * * * * * * * * * * * * * * * * * * *
+Cas: Mon Dec 03 11:39:16 CET 2012
+Pocet pokusov: 1
+Uspesnost (%): 100.0
+* * * * * * * * * * * * * * * * * * * *
+Cas: Mon Dec 03 13:11:49 CET 2012
+Pocet pokusov: 1
+Uspesnost (%): 100.0
+* * * * * * * * * * * * * * * * * * * *

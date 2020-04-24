@@ -74,11 +74,7 @@ public class Pretekar {
      * beh nie je nulový
      */
     public boolean pretekarDobeholDoCiela() {
-        if (this.cas == 0) {
-            return false;
-        } else {
-            return true;
-        }
+        return this.cas != 0;
     }
 
     /**

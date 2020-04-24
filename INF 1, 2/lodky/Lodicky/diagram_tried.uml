@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="275.5" y="406.5">Policko</node>
+    <node x="45.5" y="-26.5">main</node>
+    <node x="69.5" y="813.5">Lodicky</node>
+    <node x="545.5" y="159.5">HraciePole</node>
+    <node x="534.0" y="759.5">Hrac</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="HraciePole" target="Policko">
+      <point x="-40.0" y="80.5" />
+      <point x="600.0" y="520.0" />
+      <point x="84.5" y="0.0" />
+    </edge>
+    <edge source="Lodicky" target="HraciePole">
+      <point x="10.0" y="-26.5" />
+      <point x="130.0" y="80.0" />
+      <point x="640.0" y="80.0" />
+      <point x="0.0" y="-80.5" />
+    </edge>
+    <edge source="main" target="Lodicky">
+      <point x="-74.5" y="0.0" />
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="840.0" />
+      <point x="-50.5" y="0.0" />
+    </edge>
+    <edge source="Lodicky" target="Policko">
+      <point x="30.0" y="-26.5" />
+      <point x="150.0" y="520.0" />
+      <point x="-84.5" y="0.0" />
+    </edge>
+    <edge source="Lodicky" target="Hrac">
+      <point x="40.0" y="-26.5" />
+      <point x="160.0" y="680.0" />
+      <point x="600.0" y="680.0" />
+      <point x="-40.0" y="-80.5" />
+    </edge>
+    <edge source="Hrac" target="HraciePole">
+      <point x="106.0" y="0.0" />
+      <point x="800.0" y="840.0" />
+      <point x="800.0" y="240.0" />
+      <point x="94.5" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="1.0" x="375.0" y="423.0" />
+  <SelectedNodes>
+    <node>Policko</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+

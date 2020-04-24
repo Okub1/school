@@ -1,6 +1,6 @@
 public class Kocka {
-    int[] cisla = {1, 2, 5, 6, 3, 6, 6, 2, 6, 1, 6, 5, 6, 5, 4, 3}; // XD ok
-    int momentalne;
+    private int[] cisla = {1, 2, 5, 6, 3, 6, 6, 2, 6, 1, 6, 5, 6, 5, 4, 3}; // XD ok
+    private int momentalne;
 
     public Kocka() {
         this.momentalne = 0;

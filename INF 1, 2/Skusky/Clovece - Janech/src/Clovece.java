@@ -68,11 +68,9 @@ public class Clovece {
                 }
             }
 
-
             // vyuzivanie inputu v hre
 
             haHraciePole.tahPanacika(userInput.charAt(0), padnuteCislo);
-
 
             tah++;
         }

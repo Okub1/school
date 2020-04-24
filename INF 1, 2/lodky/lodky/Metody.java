@@ -1,0 +1,18 @@
+
+/**
+ * Write a description of class metody here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Metody
+{
+    Metody(){
+    
+    }
+    
+
+    
+
+    
+}
