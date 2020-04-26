@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class PascalTriangle {
 
@@ -32,7 +33,8 @@ public class PascalTriangle {
         }
     }
 
-    public static void notUsingFactorial(int levelsOfPascalTriangle) {
+    public static String notUsingFactorial(int levelsOfPascalTriangle) {
+        String temp = "";
         ArrayList<Long> lastLevel = new ArrayList<>();
         for (int i = 0; i < levelsOfPascalTriangle; i++) {
             ArrayList<Long> currentLevel = new ArrayList<>();
@@ -58,25 +60,37 @@ public class PascalTriangle {
 
             lastLevel = currentLevel;
 
+            temp += i + ".";
             for (int j = 0; j < currentLevel.size(); j++) {
+
                 if (j == 0) {
                     for (int indent = 0; indent < levelsOfPascalTriangle - i; indent++) {
-                        System.out.print("\t");
+//                        System.out.print("\t");
+                        temp += "\t";
                     }
                 }
 
-                System.out.print(currentLevel.get(j));
+//                System.out.print(currentLevel.get(j));
+
+                temp += currentLevel.get(j);
+
                 if (currentLevel.get(j) > 1000000 || currentLevel.get(j) < 0) {
-                    System.out.print(" ");
+//                    System.out.print(" ");
+                    temp += " ";
                 } else if (currentLevel.get(j) > 1000) {
-                    System.out.print("\t");
+//                    System.out.print("\t");
+                    temp += "\t";
                 } else {
-                    System.out.print("\t\t");
+//                    System.out.print("\t\t");
+                    temp += "\t\t";
                 }
             }
 
 
-            System.out.println();
+//            System.out.println();
+            temp += "\n";
         }
+
+        return temp;
     }
 }
