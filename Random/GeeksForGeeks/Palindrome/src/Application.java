@@ -34,7 +34,7 @@ public class Application extends JFrame {
         menuBar.add(menu1);
 
         // Test palindrome submenu items:
-        JMenu subMenu1 = new JMenu("Testovacie palindromy");
+        JMenu subMenu1 = new JMenu("Testovacie palindrómy");
         menuBar.add(subMenu1);
 
         JMenuItem subMenuItem1 = new JMenuItem("Rotor");
@@ -105,13 +105,17 @@ public class Application extends JFrame {
         });
 
 
-        JMenuItem menuItemWhatIsPalindrome = new JMenuItem("What is palindrome");
+        JMenuItem menuItemWhatIsPalindrome = new JMenuItem("What is palindrome?");
         menu1.add(menuItemWhatIsPalindrome);
         menuItemWhatIsPalindrome.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
-                    JOptionPane.showMessageDialog(parent, "Let me open wikipedia for you, you lazy bastard...");
+                    ImageIcon icon = new ImageIcon("src/img/info_icon_i.png");
+                    icon = resizeIcon(icon, 48, 48);
+                    JOptionPane.showMessageDialog(parent,
+                            "Let me open wikipedia for you, you lazy bastard...",
+                            "What is palindrome?", JOptionPane.INFORMATION_MESSAGE, icon);
 //                    Thread.sleep(1000);
                     Desktop.getDesktop().browse(new URL("https://en.wikipedia.org/wiki/Palindrome").toURI());
                 } catch (IOException | URISyntaxException ex) {
@@ -125,8 +129,10 @@ public class Application extends JFrame {
         menuItemAbout.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                ImageIcon icon = new ImageIcon("src/img/info_icon_i.png");
+                icon = resizeIcon(icon, 48, 48);
                 JOptionPane.showMessageDialog(parent, "Naprogramoval: Jakub Senko, 2020" +
-                        "\nako side-project len tak zo srandy za jeden vecer :D.");
+                        "\nako side-project len tak zo srandy za jeden vecer :D.", "About", JOptionPane.INFORMATION_MESSAGE, icon);
             }
         });
 
