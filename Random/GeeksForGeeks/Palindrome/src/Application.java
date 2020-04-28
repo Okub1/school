@@ -136,52 +136,32 @@ public class Application extends JFrame {
         menuItemExit.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                int confirmed = JOptionPane.showConfirmDialog(parent,
-                        "Are you sure you want to exit?" +
-                                "\n\nCreated by Jakub Senko, 2020", "Exit",
-                        JOptionPane.YES_NO_OPTION);
-
-                if (confirmed == JOptionPane.YES_OPTION) {
-                    dispose();
-                } else {
-                    setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
-                }
+                confirmExit();
             }
         });
-
-
-
-
 
         parent.setJMenuBar(menuBar);
+        // end of menu shit
 //----------------------------------------------------------------------------------------------------------------------
+        // action listeners (enter pressed, escape pressed)
 
-//        setVisible(true);
-
+        // Closing window event, confirm exit window:
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
-                int confirmed = JOptionPane.showConfirmDialog(parent,
-                        "Are you sure you want to exit?" +
-                                "\n\nCreated by Jakub Senko, 2020", "Exit",
-                        JOptionPane.YES_NO_OPTION);
-
-                if (confirmed == JOptionPane.YES_OPTION) {
-                    dispose();
-                } else {
-                    setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
-                }
+                confirmExit();
             }
         });
 
+        // check button listener - check
         button1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                check(textArea1.getText().toLowerCase());
+                check(textArea1.getText());
             }
         });
 
-        textArea1
-                .addKeyListener(new KeyAdapter() {
+        // enter key listener - check
+        textArea1.addKeyListener(new KeyAdapter() {
             @Override
             public void keyPressed(KeyEvent e) {
                 super.keyPressed(e);
@@ -190,20 +170,59 @@ public class Application extends JFrame {
                 }
             }
         });
+
+        // escape key listener - confirm exit
+        textArea1.addKeyListener(new KeyAdapter() {
+            @Override
+            public void keyPressed(KeyEvent e) {
+                super.keyPressed(e);
+                if(e.getKeyCode() == KeyEvent.VK_ESCAPE){
+                    confirmExit();
+                }
+            }
+        });
     }
 
+    // check for palindrome method
     public void check(String palindrome) {
         if (palindrome.length() > 1) {
-            if (Palindrome.check(palindrome)) {
-                JOptionPane.showMessageDialog(parent, "Je to palindróm!");
+            if (Palindrome.check(palindrome.toLowerCase())) {
+                ImageIcon icon = new ImageIcon("src/img/success_icon_check_mark.png");
+                icon = resizeIcon(icon, 48, 48);
+                JOptionPane.showMessageDialog(parent, "Je to palindróm!", "Success", JOptionPane.PLAIN_MESSAGE, icon);
                 textArea1.setText(null);
             } else {
-                JOptionPane.showMessageDialog(parent, "Nie je to palindróm.");
+                ImageIcon icon = new ImageIcon("src/img/error_icon_cross.png");
+                icon = resizeIcon(icon, 48, 48);
+                JOptionPane.showMessageDialog(parent, "Nie je to palindróm.\n" + Palindrome.getResult(), "Failure", JOptionPane.ERROR_MESSAGE, icon);
                 textArea1.setText(null);
             }
         } else {
-            JOptionPane.showMessageDialog(parent, "Zadajte palindróm, ktorý je aspoň dva znaky dlhý...");
+            ImageIcon icon = new ImageIcon("src/img/info_icon_i.png");
+            icon = resizeIcon(icon, 48, 48);
+            JOptionPane.showMessageDialog(parent, "Zadajte palindróm, ktorý je aspoň dva znaky dlhý...", "Error", JOptionPane.INFORMATION_MESSAGE, icon);
             textArea1.setText(null);
         }
+    }
+
+    private void confirmExit() {
+        ImageIcon icon = new ImageIcon("src/img/confirm_icon_question_mark.png");
+        icon = resizeIcon(icon, 48, 48);
+        int confirmed = JOptionPane.showConfirmDialog(parent,
+                "Are you sure you want to exit?" +
+                        "\n\nCreated by Jakub Senko, 2020", "Exit",
+                JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, icon);
+
+        if (confirmed == JOptionPane.YES_OPTION) {
+            dispose();
+        } else {
+            setDefaultCloseOperation(javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE);
+        }
+    }
+
+    private ImageIcon resizeIcon(ImageIcon icon, int width, int height) {
+        Image img = icon.getImage();
+        Image newimg = img.getScaledInstance(width, height,  java.awt.Image.SCALE_SMOOTH);
+        return new ImageIcon(newimg);
     }
 }
